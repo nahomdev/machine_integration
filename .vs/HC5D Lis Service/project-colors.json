@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b5d9233c-7b79-4b51-84b9-76b1870fa81b": {
+      "ProjectGuid": "b5d9233c-7b79-4b51-84b9-76b1870fa81b",
+      "DisplayName": "HC5D Lis Service",
+      "ColorIndex": 0
+    },
+    "25debd70-99ee-463a-9672-51d59f1b95c5": {
+      "ProjectGuid": "25debd70-99ee-463a-9672-51d59f1b95c5",
+      "DisplayName": "Orbit Wix Installer",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

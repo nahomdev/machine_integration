@@ -1,0 +1,21 @@
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\HC5D Lis Service.exe.config
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\HC5D Lis Service.exe
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\HC5D Lis Service.pdb
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\EntityFramework.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\EntityFramework.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.CopyComplete
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.exe
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.pdb
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D_Lis_Service.Service1.resources
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D Lis Service.csproj.GenerateResource.cache
+C:\Users\orbithealth\Desktop\nordic-services\HC5D Lis Service\HC5D Lis Service\obj\Debug\HC5D_Lis_Service.ProjectInstaller.resources
