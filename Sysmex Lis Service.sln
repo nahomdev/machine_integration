@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sysmex Lis Service", "Sysmex Lis Service\Sysmex Lis Service.csproj", "{C0EFA7BD-39A5-4C24-AA16-02CDE26E8F3A}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sysmex Lis Setup", "Sysmex Lis Setup\Sysmex Lis Setup.vdproj", "{C27F8081-4F00-4083-8BBC-014915A8BE79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0EFA7BD-39A5-4C24-AA16-02CDE26E8F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0EFA7BD-39A5-4C24-AA16-02CDE26E8F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0EFA7BD-39A5-4C24-AA16-02CDE26E8F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0EFA7BD-39A5-4C24-AA16-02CDE26E8F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C27F8081-4F00-4083-8BBC-014915A8BE79}.Debug|Any CPU.ActiveCfg = Debug
+		{C27F8081-4F00-4083-8BBC-014915A8BE79}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B40E0A7D-2D23-475B-92FA-445D0599BAF8}
+	EndGlobalSection
+EndGlobal

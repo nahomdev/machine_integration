@@ -1,0 +1,20 @@
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\Sysmex Lis Service.exe.config
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\Sysmex Lis Service.exe
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\Sysmex Lis Service.pdb
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\EntityFramework.dll
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\EntityFramework.xml
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\obj\Debug\Sysmex Lis Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\obj\Debug\Sysmex Lis Service.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\obj\Debug\Sysmex Lis Service.csproj.CopyComplete
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\obj\Debug\Sysmex Lis Service.exe
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\obj\Debug\Sysmex Lis Service.pdb
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\obj\Debug\Sysmex_Lis_Service.ProjectInstaller.resources
+C:\Users\orbithealth\Desktop\nordic-services\Sysmex Lis Service\Sysmex Lis Service\obj\Debug\Sysmex Lis Service.csproj.GenerateResource.cache
