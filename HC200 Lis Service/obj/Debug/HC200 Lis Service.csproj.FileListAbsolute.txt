@@ -1,0 +1,55 @@
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\HC200 Lis Service.exe.config
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\HC200 Lis Service.exe
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\HC200 Lis Service.pdb
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\EntityFramework.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Data.SQLite.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\EntityFramework.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Data.SQLite.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\obj\Debug\HC200 Lis Service.csproj.SuggestedBindingRedirects.cache
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\obj\Debug\HC200_Lis_Service.ProjectInstaller.resources
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\obj\Debug\HC200 Lis Service.csproj.GenerateResource.cache
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\obj\Debug\HC200 Lis Service.csproj.CoreCompileInputs.cache
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\obj\Debug\HC200 Lis Service.csproj.CopyComplete
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\obj\Debug\HC200 Lis Service.exe
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\obj\Debug\HC200 Lis Service.pdb
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\appsettings.json
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Buffers.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Memory.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Text.Json.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.ValueTuple.dll
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Buffers.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Memory.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Text.Json.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\orbithealth\Desktop\nordic-services\HC200 Lis Service\HC200 Lis Service\bin\Debug\System.ValueTuple.xml
